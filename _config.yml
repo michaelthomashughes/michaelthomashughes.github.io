@@ -22,13 +22,14 @@ author: Michael Hughes
 navbar-links:
   SAFe: "pages/agileship"
   Analogies: "pages/analogies"
-  Marathon: "pages/development-marathon"
-  Mindset: "pages/team-mindset"
   Story Points: "pages/story-points"
+  Meetings: "pages/meetings"
   Ceremonies: "pages/ceremonies"
   WIP: "pages/wip-limits"
   Deployments: "pages/deployments"
   Abilities: "pages/mixed-abilities"
+  Marathon: "pages/development-marathon"
+  Mindset: "pages/team-mindset"
   
   Resources:
     - Agile Manifesto: "https://agilemanifesto.org/"

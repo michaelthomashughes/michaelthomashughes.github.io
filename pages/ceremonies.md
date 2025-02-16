@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anything to be said for Another Meeting?
+title: Evolution of Ceremonies in Agile Development
 ---
 
 Agile ceremonies can be useful, but traditional Scrum sprints are often too rigid. In Kanban, it's better to:
@@ -15,6 +15,6 @@ Agile ceremonies can be useful, but traditional Scrum sprints are often too rigi
 * Sprint reviews become a "Done!" celebration
 * Daily meetings are brief check-ins
 
-By embracing an adaptable approach, teams can prioritize flow and adaptation over rigid structure and numerous formalised ceremonies. Another meeting - that's our best idea?
+By embracing an adaptable approach, teams can prioritize flow and adaptation over rigid structure and numerous formalised ceremonies.
 
-![Father Ted Another Mass?](https://media1.tenor.com/m/vzaaqGe39RoAAAAd/father-ted-father.gif)
+![Scrum Master?](https://media1.tenor.com/m/iYgJChPAasEAAAAC/scrum-scrum-certification.gif)
